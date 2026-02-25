@@ -1,9 +1,4 @@
-# Browser Agent
-
-<div align="center">
-<br>
-<h3>通用浏览器自动化智能体</h3>
-</div>
+# Browser Agent（通用浏览器自动化智能体）
 
 ## 项目简介
 
