@@ -10,7 +10,8 @@ Browser Agent 是一个通用浏览器自动化智能体，旨在解决传统 RP
 核心作用是实现一个自主规划的超级智能体，具备强大的网页操作能力和智能化决策能力。
 
 ## 📈 项目演示
-https://github.com/user-attachments/assets/1f81e4f8-ec55-48b8-9544-d4495250595a
+
+https://github.com/user-attachments/assets/4673293b-99ac-43e8-b1f1-612681795895
 
 ## 🏗️ 架构设计
 
