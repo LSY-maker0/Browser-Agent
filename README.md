@@ -1,7 +1,9 @@
 # Browser Agent
 
-## 通用浏览器自动化智能体
-一个基于 OpenManus 架构的自主浏览器 Agent，专为解决传统 RPA 无法处理的动态网页交互与复杂推理任务而设计</p>
+<div align="center">
+<br>
+<h3>通用浏览器自动化智能体</h3>
+</div>
 
 ## 项目简介
 
